@@ -1,19 +1,23 @@
-class Produto{
-    constructor(){
+//Creation of class
+class Produto {
+    //construtor
+    constructor() {
+        //Definition of attributes
         this.id
         this.nome
         this.valor
     }
 
-    create(){
+    /* Methods */
+    create() {
         alert("Você vai adicionar");
     }
 
-    delete(){
+    delete() {
 
     }
 
-    update(){
+    update() {
 
     }
 
